@@ -5,4 +5,4 @@ This is a nifty Apple Shortcut for your Apple devices to quickly search differen
 
 Option 1: Use [this link](https://www.icloud.com/shortcuts/9038a16900b6436e8ada686c8e810b0d) to add the shortcut directly to your iPhone/other compatible Apple Device.
 
-Option 2: 
+Option 2: Use [this link](https://github.com/SmashedFrenzy16/Apple-Shortcuts-Internet-Search/blob/main/InternetSearch/IMG_2081.jpeg) to voew an image of the shortcut code.
